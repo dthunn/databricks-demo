@@ -1,1 +1,1 @@
-# databrikcs-demo
+# databricks-demo
